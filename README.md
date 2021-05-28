@@ -5,5 +5,4 @@ Horizon Code Refactor
 Links:
 https://abright93.github.io/horiseon_refactor/
 
-https://github.com/abright93/horiseon_refactor
 
